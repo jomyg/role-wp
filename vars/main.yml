@@ -1,0 +1,8 @@
+httpd_port: "80"
+httpd_user: "apache"
+httpd_group: "apache"
+httpd_domain: "blog.jomygeorge.xyz"
+mysql_root_password: "mysqlpass@1"
+mysql_user: "wordpress"
+mysql_user_password: "wordpress"
+mysql_database: "wordpress"
