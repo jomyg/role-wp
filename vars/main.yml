@@ -1,3 +1,6 @@
+---
+
+wordpress_url: "https://wordpress.org/latest.tar.gz"
 httpd_port: "80"
 httpd_user: "apache"
 httpd_group: "apache"
